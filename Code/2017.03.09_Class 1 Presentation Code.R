@@ -1,4 +1,4 @@
-#trying with restriction to collaborators only
+#trying without restriction to collaborators only
 
 
 # *******************************************#
